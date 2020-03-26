@@ -1,13 +1,14 @@
 ## Covid-19 Data Scrapper
 Main functionality to scrapp data from the web and display this in the console.
+Data scrapped from this website::https://www.worldometers.info/coronavirus/
 
 # Dependencies
 
 npm and node is required.
 
 ```shell
-npm install pupperteer
-npm install pupperteer pupperteer-extra
+npm install puppeteer
+npm install puppeteer puppeteer-extra
 ```
 
 # Usage
