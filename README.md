@@ -1,6 +1,6 @@
-## Covid-19 Data Scrapper
-Main functionality to scrapp data from the web and display this in the console.
-Data scrapped from this website::https://www.worldometers.info/coronavirus/
+## Covid-19 Data Scraper
+Main functionality to scrape data from the web and display this in the console.
+Data scraped from this website::https://www.worldometers.info/coronavirus/
 
 # Dependencies
 
